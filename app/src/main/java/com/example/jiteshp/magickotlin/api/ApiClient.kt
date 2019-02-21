@@ -6,6 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
 class ApiClient {
+//this is
 
     companion object {
         val baseUrl: String = "https://api.themoviedb.org/3/"
